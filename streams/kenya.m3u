@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1, Trace Latina
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-latina/2a58778a-5040-4ea1-92a6-e6030276aa62/1.m3u8
 #EXTINF:-1, Trace Brazuca(brazil)
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-brazuca/300c9b40-471e-47a0-b048-196c86ab4a01/3.m3u8
 #EXTINF:-1, Trace UK
