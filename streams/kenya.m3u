@@ -56,6 +56,16 @@ https://goliveafrica.media:9998/live/6593c35f9c090/index.m3u8
 https://goliveafrica.media:9998/live/65fe931f3fe4e/index.m3u8
 #EXTINF:-1, ABOOD TV (TZ)
 https://goliveafrica.media:9998/live/644db46d1b776/index.m3u8
+#EXTINF:-1, DISNEY_CHANNEL
+https:\\fl5.moveonjoy.com\DISNEY_CHANNEL\index.m3u8
+#EXTINF:-1, Disney_Channel HD
+http:\\109.233.89.170\Disney_Channel\mono.m3u8
+#EXTINF:-1, Disney XD East
+https:\\fl5.moveonjoy.com\DISNEY_XD\index.m3u8
+#EXTINF:-1, Disney Junior
+http:\\109.233.89.166\Disney_Junior\mono.m3u8
+#EXTINF:-1, DISNEY_JR
+https:\\fl2.moveonjoy.com\DISNEY_JR\index.m3u8
 
 
 
