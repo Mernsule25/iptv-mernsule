@@ -58,14 +58,22 @@ https://goliveafrica.media:9998/live/65fe931f3fe4e/index.m3u8
 https://goliveafrica.media:9998/live/644db46d1b776/index.m3u8
 #EXTINF:-1, DISNEY_CHANNEL
 https:\\fl5.moveonjoy.com\DISNEY_CHANNEL\index.m3u8
-#EXTINF:-1, Disney_Channel HD
+#EXTINF:-1, Disney Channel HD
 http:\\109.233.89.170\Disney_Channel\mono.m3u8
 #EXTINF:-1, Disney XD East
 https:\\fl5.moveonjoy.com\DISNEY_XD\index.m3u8
 #EXTINF:-1, Disney Junior
 http:\\109.233.89.166\Disney_Junior\mono.m3u8
-#EXTINF:-1, DISNEY_JR
+#EXTINF:-1, DISNEY JR
 https:\\fl2.moveonjoy.com\DISNEY_JR\index.m3u8
+#EXTINF:-1, AbuDhabi Sports Channel 2
+https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
+#EXTINF:-1, MTVEast US
+https://streamer1.nexgen.bz/MTV/index.m3u8
+#EXTINF:-1, AfroLandTV
+https://alt-al.otteravision.com/alt/al/al.m3u8
+#EXTINF:-1, ZeeOne (DE)
+https://ef56ef401101403a8b06f1dec29ef1eb.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_ZeeOne/playlist.m3u8
 
 
 
