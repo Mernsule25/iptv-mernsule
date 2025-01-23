@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1, Trace Latina
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-latina/2a58778a-5040-4ea1-92a6-e6030276aa62/1.m3u8
+https://amg01131-tracetv-tracelatina-klowdtv-v10em.amagi.tv/playlist/amg01131-tracetv-tracelatina-klowdtv/playlist.m3u8
 #EXTINF:-1, Trace Brazuca(brazil)
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-brazuca/300c9b40-471e-47a0-b048-196c86ab4a01/3.m3u8
 #EXTINF:-1, Trace UK
@@ -78,6 +78,22 @@ https://ef56ef401101403a8b06f1dec29ef1eb.mediatailor.us-east-1.amazonaws.com/v1/
 https://850466559.cdnmistreat.net:8443/hls/m4vi31opfdn06q4.m3u8?s=8HilsKvLUdQZ_sSoeS0VUg&e=1736037080
 #EXTINF:-1, Sky Sport live
 https://hrmgogo.xyz/chunklist/hlsch10.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjUgNiA6NDkgOjEwICBQTSZoYXNoX3ZhbHVlPUFabjF5dVNPTHJXWUJIcExYNlVXb2c9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTE1Mi40Mi4xOTMuMTg5JnN0cm1fbGVuPTU=
-
-
+#EXTINF:-1, YOUNIB MediaTV
+https://goliveafrica.media:9998/live/6257fbe7383d6/index.m3u8
+#EXTINF:-1, SayareTV
+https://goliveafrica.media:9998/live/636dedfa327d7/index.m3u8
+#EXTINF:-1, RomanzaPlusAfrica
+https://origin3.afxp.telemedia.co.za/PremiumFree/romanza/playlist.m3u8
+#EXTINF:-1, MeruTV
+https://goliveafrica.media:9998/live/628e5c1991061/index.m3u8
+#EXTINF:-1, LolweTV.ke
+https://goliveafrica.media:9998/live/62580e144eb43/index.m3u8
+#EXTINF:-1, InooroTV.ke
+https://74937-castr.akamaized.net/5ea49827ff3b5d7b22708777/live_cd93fa8063f411ecb28b5d4f40b51a46/index.m3u8
+#EXTINF:-1, DacwaTV.ke
+https://ap02.iqplay.tv:8082/iqb8002/d13w1/playlist.m3u8
+#EXTINF:-1, TraceSportStars
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1, Trace Urban
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 
