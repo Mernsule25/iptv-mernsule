@@ -11,8 +11,6 @@ http://connectiktv.ddns.me:8080/live/61f2632aa8934-1/index.m3u8
 #EXTINF:-1 tvg-id="BalafonTV.cm",Balafon TV (1080p) [Not 24/7]
 #EXTVLCOPT:http-referrer=https://odysee.com/
 https://cloud.odysee.live/content/d174f640b38d9d2f3967fd5e1b47b58c58f911a1/master.m3u8
-#EXTINF:-1 tvg-id="Canal2International.cm",Canal 2 International (360p) [Not 24/7]
-https://rpn3.bozztv.com/ssh101/ssh101/canal2live/playlist.m3u8
 #EXTINF:-1 tvg-id="CanaldeVie.cm",Canal de Vie (360p)
 https://edge13.vedge.infomaniak.com/livecast/ik:canaldevie/playlist.m3u8
 #EXTINF:-1 tvg-id="CENTelevision.cm",CEN Télévision (1080p)
@@ -66,6 +64,6 @@ https://stream.it-innov.com/tr24/index.m3u8
 #EXTINF:-1 tvg-id="VibeMusic.cm",Vibe Music TV (360p) [Not 24/7]
 http://connectiktv.ddns.me:8080/live/62455ef0ac47a/index.m3u8
 #EXTINF:-1 tvg-id="Vision4.cm",Vision 4 (360p)
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8
+https://cdn-globecast.akamaized.net/live/eds/vision4/hls_video/index.m3u8
 #EXTINF:-1 tvg-id="VSRTV.cm",VS RTV (480p) [Not 24/7]
 http://connectiktv.ddns.me:8080/live/61f65016ea2be-1/index.m3u8
