@@ -102,3 +102,5 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c
 http://fl5.moveonjoy.com/NICK_MUSIC/index.m3u8
 #EXTINF:-1, NickToons East
 http://143.244.60.30/NICKTOONS/index.m3u8
+#EXTINF:-1, MyTime Movie Network
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
