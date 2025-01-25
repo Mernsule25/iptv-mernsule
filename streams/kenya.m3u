@@ -24,11 +24,9 @@ https://74937-castr.akamaized.net/5ea49827ff3b5d7b22708777/live_cd93fa8063f411ec
 #EXTINF:-1 tvg-id="K24.ke" tvg-logo="https://i.imgur.com/SUjo6Bm.png" group-title="General",K24 (720p)
 https://5de06ce62a0b5.streamlock.net/k24/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="KBCChannel1.ke" tvg-logo="https://i.imgur.com/Km0GINR.png" group-title="General",KBC Channel 1 (720p) [Not 24/7]
-https://ythls.onrender.com/channel/UCypNjM5hP1qcUqQZe57jNfg.m3u8
+https://www.youtube.com/watch?v=K7fzi47bxRM&ab_channel=KBCChannel1TVShows
 #EXTINF:-1 tvg-id="KTNNews.ke" tvg-logo="https://i.imgur.com/AYxanoy.png" group-title="News",KTN News (720p) [Not 24/7]
 https://ythls.onrender.com/channel/UCKVsdeoHExltrWMuK0hOWmg.m3u8
-#EXTINF:-1 tvg-id="NTVKenya.ke" tvg-logo="https://i.imgur.com/8xhvuJQ.png" group-title="General",NTV (720p) [Not 24/7]
-https://ythls.onrender.com/channel/UCqBJ47FjJcl61fmSbcadAVg.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Ramogi TV (720p)
 https://citizentv.castr.com/5ea49827ff3b5d7b22708777/live_9b761ff063f511eca12909b8ef1524b4/index.m3u8
 #EXTINF:-1 tvg-id="RefletTV.ci" tvg-logo="https://i.imgur.com/EauXR22.png" group-title="Undefined",REFLET TV (1080p)
