@@ -25,8 +25,6 @@ http://fl2.moveonjoy.com/CNBC/index.m3u8
 http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
 #EXTINF:-1 tvg-id="FoxSports1.us",Fox Sports 1
 http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
-#EXTINF:-1 tvg-id="FoxSports2.us",Fox Sports 2
-http://fl2.moveonjoy.com/FOX_Sports_2/index.m3u8
 #EXTINF:-1 tvg-id="FYIEast.us",FYI East
 http://fl2.moveonjoy.com/FYI/index.m3u8
 #EXTINF:-1 tvg-id="HallmarkChannelEast.us",Hallmark Channel East
@@ -43,6 +41,8 @@ http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
 https://fl5.moveonjoy.com/MTV_2/index.m3u8
 #EXTINF:-1 tvg-id="MTVClassicEast.us",MTV Classic (360p)
 https://fl5.moveonjoy.com/MTV_CLASSIC/index.m3u8
+#EXTINF:-1 tvg-id="MTVClassicEast.us",MTV Classic East (720p)
+https://fl2.moveonjoy.com/MTV_CLASSIC/index.m3u8
 #EXTINF:-1 tvg-id="MTVLive.us",MTV Live (720p)
 https://fl5.moveonjoy.com/MTV_LIVE/index.m3u8
 #EXTINF:-1 tvg-id="MTVU.us",mtvU (480p)
@@ -55,6 +55,8 @@ http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
 https://fl5.moveonjoy.com/NICK_JR/index.m3u8
 #EXTINF:-1 tvg-id="NickMusic.us",Nick Music (480p)
 http://fl5.moveonjoy.com/NICK_MUSIC/index.m3u8
+#EXTINF:-1 tvg-id="NickelodeonEast.us",Nickelodeon East
+http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
 #EXTINF:-1 tvg-id="OxygenEast.us",Oxygen East
 http://fl2.moveonjoy.com/OXYGEN/index.m3u8
 #EXTINF:-1 tvg-id="ParamountNetworkEast.us",Paramount Network East

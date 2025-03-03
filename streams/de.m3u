@@ -135,6 +135,8 @@ https://hse24trend.akamaized.net/hls/live/2006597/hse24trend/playlist.m3u8
 https://relay2.cdn.fem-net.de/hls/loop/istuff_live/istuff_live-720p.m3u8
 #EXTINF:-1 tvg-id="Juwelo.de",Juwelo (720p)
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/7441/7441_264_live.m3u8
+#EXTINF:-1 tvg-id="kabeleins.de",kabel eins (576p)
+https://s6.hopslan.com/kabel1x1/index.m3u8
 #EXTINF:-1 tvg-id="Kanal12SprembergTV.de",Kanal12 Spremberg TV (404p) [Not 24/7]
 https://58de7a369a9c4.streamlock.net/sprembergtv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="KanalAvrupa.de",Kanal Avrupa (1080p)
@@ -173,6 +175,8 @@ https://mdrtvthhls.akamaized.net/hls/live/2016880/mdrtvth/index.m3u8
 https://stream.meietv.de/live/meietv.m3u8
 #EXTINF:-1 tvg-id="MoreThanSportsTV.de",More Than Sports TV (1080p)
 https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
+#EXTINF:-1 tvg-id="Motorvision.de",Motorvision (720p)
+https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/0968af15-603e-4856-9185-f61cf74ef17e/4.m3u8
 #EXTINF:-1 tvg-id="Motorvision.de",Motorvision TV (720p)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 #EXTINF:-1 tvg-id="MunchenTV.de",München TV (1080p) [Not 24/7]
@@ -308,6 +312,9 @@ https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
 #EXTINF:-1 tvg-id="ProSieben.de",ProSieben (576p)
 #EXTVLCOPT:http-referrer=http://85.187.13.40:18000/
 http://85.187.13.40:18000/ProSieben
+#EXTINF:-1 tvg-id="ProSieben.de",ProSieben (576p)
+#EXTVLCOPT:http-referrer=https://2ix2.com/pro7/
+https://s6.hopslan.com/pro7x1/index.m3u8
 #EXTINF:-1 tvg-id="PUNKTumFernsehen.de",PUNKTum Fernsehen (1080p) [Not 24/7]
 http://58bd5b7a98e04.streamlock.net/medienasa-live/punktum_high/playlist.m3u8
 #EXTINF:-1 tvg-id="",QVC 2 Germany (540p)
@@ -368,6 +375,17 @@ https://live.creacast.com/rockland-radio/smil:rockland-radio.smil/playlist.m3u8
 https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8
 #EXTINF:-1 tvg-id="RTDE.de",RT DE (1080p) [Not 24/7]
 https://rt-ger.rttv.com/live/rtdeutsch/playlist.m3u8
+#EXTINF:-1 tvg-id="RTL.de",RTL (576p)
+https://s6.hopslan.com/rtlc1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="RTL.de",RTL (Germany) (576p)
+http://178.219.128.68:64888/RTL
+#EXTINF:-1 tvg-id="RTLSuper.de",RTL Super (576p)
+http://178.219.128.68:64888/SUPERTL
+#EXTINF:-1 tvg-id="RTLZwei.de",RTL Zwei (1080p)
+http://178.219.128.68:64888/RTL2
+#EXTINF:-1 tvg-id="RTLZwei.de",RTL Zwei (576p)
+#EXTVLCOPT:http-referrer=https://www.2ix2.com/rtl2-live/
+https://s6.hopslan.com/rtl2x1/index.m3u8
 #EXTINF:-1 tvg-id="SaarlandFernsehen1.de",Saarland Fernsehen 1 (1080p)
 https://saarland1.iptv-playoutcenter.de/saarland1/saarland1.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-id="SaarlandFernsehen2.de",Saarland Fernsehen 2 (720p) [Not 24/7]
@@ -394,6 +412,10 @@ https://60015180a7f57.streamlock.net:444/public/stream_source/playlist.m3u8
 https://bild-und-ton.stream/sophiatv-en/smil:sophia-tv-en.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SophiaTVEspanol.de",Sophia TV Español (720p)
 https://bild-und-ton.stream/sophiatv-es/smil:sophia-tv-es.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SophiaTVFrancais.de",Sophia TV Français (720p)
+https://bild-und-ton.stream/sophiatv-fr/smil:sophia-tv-fr.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SophiaTVFrancais.de",Sophia TV Français (720p)
+https://www.onairport.live/sophiatv-fr-live/smil:sophia-tv-fr.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SophiaTV.it",Sophia TV Italy (720p)
 https://bild-und-ton.stream/sophiatv-it/smil:sophia-tv-it.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SouvenirsfromEarthTV.de",Souvenirs from Earth TV
@@ -444,6 +466,10 @@ https://tvaktuellr.iptv-playoutcenter.de/tvaktuellr/tvaktuellr.stream_1/playlist
 https://srde.akamaized.net/hls/live/2031842/visualradio-unserding/index.m3u8
 #EXTINF:-1 tvg-id="VolksmusikTV.de",Volksmusik TV (1080p)
 https://vmtv.iptv-playoutcenter.de/vmtv/vmtv1/playlist.m3u8
+#EXTINF:-1 tvg-id="VOX.de",VOX (576p)
+https://s6.hopslan.com/voxx1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="VOX.de",VOX (Germany) (576p)
+http://178.219.128.68:64888/VOX
 #EXTINF:-1 tvg-id="WDR1Live.de",WDR 1 Live (720p)
 https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/index.m3u8
 #EXTINF:-1 tvg-id="WDR1Live.de",WDR 1 Live (720p)
@@ -474,6 +500,8 @@ https://wdrlokalzeit.akamaized.net/hls/live/2018028-b/wdrlz_wuppertal/master.m3u
 https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8
 #EXTINF:-1 tvg-id="Wir24TV.de",Wir24 TV (1080p) [Geo-blocked]
 https://edge14.vedge.infomaniak.com/livecast/ik:wir24tv_hms/manifest.m3u8
+#EXTINF:-1 tvg-id="WorldofFreesports.de",World of Freesports (1080p)
+https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-mainstreammediafreesportsintl-rakuten/CDN/master.m3u8
 #EXTINF:-1 tvg-id="WWTV.de",WW TV (720p)
 https://live2.telvi.de/hls/wwtv_hd720.m3u8
 #EXTINF:-1 tvg-id="ZDF.de",ZDF (720p) [Geo-blocked]
@@ -486,23 +514,5 @@ https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
 https://ef56ef401101403a8b06f1dec29ef1eb.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_ZeeOne/playlist.m3u8
 #EXTINF:-1 tvg-id="ZweiMusicTelevision.de",ZWEI2 Music (1080p)
 https://cdne.folxplay.tv/folx-trz/streams/ch-2/master.m3u8
-#EXTINF:-1 tvg-id="VOX.de",VOX (Germany) (576p)
-http://178.219.128.68:64888/VOX
-#EXTINF:-1 tvg-id="RTLZwei.de",RTL Zwei (1080p)
-http://178.219.128.68:64888/RTL2
-#EXTINF:-1 tvg-id="RTL.de",RTL (Germany) (576p)
-http://178.219.128.68:64888/RTL
-#EXTINF:-1 tvg-id="ProSieben.de",ProSieben (576p)
-#EXTVLCOPT:http-referrer=https://2ix2.com/pro7/
-https://s6.hopslan.com/pro7x1/index.m3u8
-#EXTINF:-1 tvg-id="RTLZwei.de",RTL Zwei (576p)
-#EXTVLCOPT:http-referrer=https://www.2ix2.com/rtl2-live/
-https://s6.hopslan.com/rtl2x1/index.m3u8
-#EXTINF:-1 tvg-id="RTL.de",RTL (576p)
-https://s6.hopslan.com/rtlc1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="kabeleins.de",kabel eins (576p)
-https://s6.hopslan.com/kabel1x1/index.m3u8
-#EXTINF:-1 tvg-id="VOX.de",VOX (576p)
-https://s6.hopslan.com/voxx1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="RTLSuper.de",RTL Super (576p)
-http://178.219.128.68:64888/SUPERTL
+#EXTINF:-1 tvg-id="DWRussian.de",DW Russian (1080p)
+https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8

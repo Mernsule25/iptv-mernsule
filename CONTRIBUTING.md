@@ -29,10 +29,6 @@ A requests without a valid channel ID or working link to the stream will be clos
 
 Note all links in playlists are sorted automatically by scripts so there is no need to sort them manually. For more info, see [Scripts](#scripts).
 
-### How to add a link to YouTube live?
-
-You can use one of the services like [abskmj/youtube-hls-m3u8](https://github.com/abskmj/youtube-hls-m3u8) that allow you to create permanent link to the broadcast that can be opened in most players.
-
 ### How to distinguish a link to an Xtream Codes server from a regular one?
 
 Most of them have this form:
@@ -137,7 +133,7 @@ To run scripts use the `npm run <script-name>` command.
 - `playlist:lint`: сhecks internal playlists for syntax errors.
 - `playlist:deploy`: allows to manually publish all generated via `playlist:generate` playlists. To run the script you must provide your [personal access token](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens) with write access to the repository.
 - `readme:update`: updates the list of playlists in [README.md](README.md).
-- `report:create`: shows a list of all current requests and their status.
+- `report:create`: creates a report on current issues.
 - `check`: (shorthand) sequentially runs the `playlist:lint` and `playlist:validate` scripts.
 - `format`: (shorthand) runs the `playlist:format` script.
 - `update`: (shorthand) sequentially runs the `playlist:generate`, `api:generate` and `readme:update` scripts.
