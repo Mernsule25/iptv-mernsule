@@ -116,5 +116,5 @@ http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-uk/encrypted.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="music",Trace UK Hits
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-uk/encrypted.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/uJosqHh.png" group-title="Sports",BeIN SPORT EXTRA 
+#EXTINF:-1 tvg-id="https://beinsports.com/" tvg-logo="https://i.imgur.com/uJosqHh.png" group-title="Sports",BeIN SPORT EXTRA 
 https://bein-xtra-xumo.amagi.tv/playlist.m3u8
