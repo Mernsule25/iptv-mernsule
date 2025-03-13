@@ -57,6 +57,10 @@ https:\\fl5.moveonjoy.com\DISNEY_XD\index.m3u8
 http:\\109.233.89.166\Disney_Junior\mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Disney_Jr._2024.svg/512px-Disney_Jr._2024.svg.png" group-title="Kids", DISNEY JR EAST
 https:\\fl2.moveonjoy.com\DISNEY_JR\index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/66758af777.png" group-title="Kids", Afro kiddos
+https://weyyak-live.akamaized.net/weyyak_afrokiddos/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tlylDbi.png" group-title="Religious", Hilaal TV
+https://cdn5.iqsat.net/iq/aa89b15058a61b904359307cc0a5e80a.sdp/playlist.m3u8
 #EXTINF:-1, AbuDhabi Sports Channel 2
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
 #EXTINF:-1, MTVEast US
