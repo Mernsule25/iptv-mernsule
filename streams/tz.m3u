@@ -108,8 +108,11 @@ http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/2b892f4a-915
 #EXTINF:-1 tvg-id=164 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/08/15/DStv_MzansiBioskop_new4-3logo_med.png" group-title="DSTV",Mzansi Bioskop
 http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/456d08f5-13d0-4dfa-a9b5-a7aa084ee8cc"
 
-#EXTINF:-1 tvg-id=166 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/11/07/DStv_ZeeWorld_4-3_med.png" group-title="DSTV",Zee World
-http://zx.mtfxg.xyz:8081/dstv1/zeeworld_480/chunks.m3u8?nimblesessionid=243086903&wmsAuthSign=c2VydmVyX3RpbWU9My8xNC8yMDI1IDg6NTA6MzQgQU0maGFzaF92YWx1ZT1HNTFyNDRNQmhwSDl3NUNTSVBlQ0pnPT0mdmFsaWRtaW51dGVzPTImaWQ9NTU5Nw==
+#EXTINF:-1 tvg-id=166 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/11/07/DStv_ZeeWorld_4-3_med.png" group-title="DSTV",Zee World (SD)
+http://zx.mtfxg.xyz:8081/dstv1/zeeworld_480/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNC8yMDI1IDEyOjUwOjExIFBNJmhhc2hfdmFsdWU9SGsrT0pQWHcvSlRVNTBDY2JiVXViUT09JnZhbGlkbWludXRlcz0yJmlkPTQwMzk=
+
+#EXTINF:-1 tvg-id=166 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/11/07/DStv_ZeeWorld_4-3_med.png" group-title="DSTV",Zee World (HD)
+http://af.mtfxg.xyz:8081/canada1/zeeworld/chunks.m3u8?nimblesessionid=46303771&wmsAuthSign=c2VydmVyX3RpbWU9My8xNC8yMDI1IDEyOjQ2OjAwIFBNJmhhc2hfdmFsdWU9M2xLSDBNNlJwWm80WWI4ajBaaHVKZz09JnZhbGlkbWludXRlcz0yJmlkPTM5Mjg=
 
 #EXTINF:-1 tvg-id=168 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/10/31/ROK_new4-3logo_001_med.png" group-title="DSTV",ROK
 http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/1bf6867b-2a1f-4357-8c6b-c844a14be27f"
