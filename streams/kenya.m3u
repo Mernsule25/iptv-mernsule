@@ -131,3 +131,5 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DLIbUMx.png" group-title="Music", PPP	
 http://gcp-video.gslb.startimestv.com/live_g/PPP_TV_1202_500_480x360_v1_FMP4/playlist.m3u8
+#EXTINF:-1 tvg-id=166 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/11/07/DStv_ZeeWorld_4-3_med.png" group-title="DSTV",Zee World
+http://zx.mtfxg.xyz:8081/dstv1/zeeworld_480/chunks.m3u8?nimblesessionid=243086903&wmsAuthSign=c2VydmVyX3RpbWU9My8xNC8yMDI1IDg6NTA6MzQgQU0maGFzaF92YWx1ZT1HNTFyNDRNQmhwSDl3NUNTSVBlQ0pnPT0mdmFsaWRtaW51dGVzPTImaWQ9NTU5Nw==
