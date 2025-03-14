@@ -91,7 +91,7 @@ http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/dcfa84d3-5c6
 http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/9d13e4d6-d45c-491b-afba-d59f9839e0aa"
 
 #EXTINF:-1 tvg-id=152 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/10/20/Africa-Magic-Epic_new4-3logo_med.png" group-title="DSTV",AfricaMagic Epic
-http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/9908da19-b506-44d5-92c6-64ab5ca05ae5"
+http://af.mtfxg.xyz:8081/canada1/amepic/chunks.m3u8?nimblesessionid=46302240&wmsAuthSign=c2VydmVyX3RpbWU9My8xNC8yMDI1IDEyOjM4OjM0IFBNJmhhc2hfdmFsdWU9NldUTWNQV2krK0RJb3FYZnFjVncrdz09JnZhbGlkbWludXRlcz0yJmlkPTg5MDk=
 
 #EXTINF:-1 tvg-id=153 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/10/20/AfricaMagic_Urban_new4-3logo_med.png" group-title="DSTV",Africa Magic Urban
 http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/a17405a4-7f2b-4366-8983-b93a0b47ee88"
