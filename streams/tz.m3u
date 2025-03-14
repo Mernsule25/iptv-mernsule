@@ -9,3 +9,110 @@ http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/2a094aeb-1f4
 #EXTINF:-1 tvg-id=104 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/07/01/DStv_M-Net-Movies-Premiere_new4-3logo_005_med.png" group-title="DSTV",M-Net Movies Premiere
 http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/d7197942-ef3b-4533-a7ed-1d26f41b9d46"
 
+
+
+#EXTINF:-1 tvg-id=105 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/07/01/DStv_M-Net-Movies-Smile_new4-3logo_001_med.png" group-title="DSTV",M-Net Movies Smile
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/85ddeeb9-6508-4270-a9b9-cfa247b7021e"
+
+#EXTINF:-1 tvg-id=106 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/06/21/DStvNowWeb_M-NetMoviesActionPlus_new4-4logo_med.png" group-title="DSTV",M-Net Movies Action+
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/a4ec39ad-9b0f-44cb-bc4b-672d0a005405"
+
+#EXTINF:-1 tvg-id=108 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/05/29/DStv_Sundance_Logo_4-3_dark_background_med.png" group-title="DSTV",Sundance TV
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/8a751b7b-907f-4ca8-8614-6245485d9108"
+
+#EXTINF:-1 tvg-id=109 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/10/23/DStv_BucketList_4-3_med.png" group-title="DSTV",Bucket List
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/169e4ed6-e578-4888-8bf0-d75ea4cb30db"
+
+#EXTINF:-1 tvg-id=110 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/06/14/DStvNowWeb_M-NetMoviesAction_new4-4logo_med.png" group-title="DSTV",M-Net Movies Action
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/f2dd3961-450b-4328-acd2-9dad64f1107f"
+
+#EXTINF:-1 tvg-id=111 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/07/01/DStv_M-Net-Movies-AllStars_new4-3logo_001_med.png" group-title="DSTV",M-Net Movies All Stars
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/1699cd01-cebe-4f7f-836e-971ec34dbd62"
+
+#EXTINF:-1 tvg-id=112 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/05/19/DStv_StudioUniversal_dark_new4-3logo_med.png" group-title="DSTV",Studio Universal
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/6975a820-fd26-4af1-87f6-2de70f5d76a3"
+
+#EXTINF:-1 tvg-id=114 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/11/07/DStv_ZeeBolly_4-3_med.png" group-title="DSTV",Zee Bollywood Movies
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/c3c206c4-649d-4c32-aa40-4cba50e15836"
+
+#EXTINF:-1 tvg-id=115 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/06/01/DStv_M-NetCity_new4-3logo-light_001_med.png" group-title="DSTV",M-Net City
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/e92fa1c7-79b5-4bbc-a276-0522f73b06ec"
+
+#EXTINF:-1 tvg-id=116 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/08/18/DStv_Vuzu_new4-3logo-dark_med.png" group-title="DSTV",Vuzu
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/36d68fa7-c585-4bef-9302-53479012702c"
+
+#EXTINF:-1 tvg-id=117 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/05/19/DStv_Universal_dark_new4-3logo_001_med.png" group-title="DSTV",Universal Channel
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/6d11af4a-5c31-407c-90d1-e0468b8f625b"
+
+#EXTINF:-1 tvg-id=118 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/06/14/DStvNowWeb_Telemundo_new4-4logo_med.png" group-title="DSTV",Telemundo
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/0c2d6148-1fb0-46fd-957f-b47eb4689bfb"
+
+#EXTINF:-1 tvg-id=119 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/05/11/DStv_BBCFirst_Logo_4-3_dark_background_med.png" group-title="DSTV",BBC First
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/85e9996c-29e8-45d2-a45b-a5e8a266fe92"
+
+#EXTINF:-1 tvg-id=120 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/06/14/DStvNowWeb_BBCBrit_new4-4logo_med.png" group-title="DSTV",BBC Brit
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/d38465be-4ee2-4e47-a002-37dca48d7c21"
+
+#EXTINF:-1 tvg-id=122 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/09/15/DStv_ComedyCentral_new4-3logo-dark_med.png" group-title="DSTV",Comedy Central
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/988771b3-4bc4-4f22-886d-8f29ac9d2bba"
+
+#EXTINF:-1 tvg-id=123 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/06/14/DStvNowWeb_ITVChoice_new4-4logo_001_med.png" group-title="DSTV",ITV Choice
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/f1713a44-62c0-44b5-9c56-d76929da7115"
+
+#EXTINF:-1 tvg-id=124 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/08/18/DStv_E_new4-3logo-dark_med.png" group-title="DSTV",E! Entertainment Television
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/ec61ce86-be5e-4e86-bfed-47ccee968295"
+
+#EXTINF:-1 tvg-id=125 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/08/15/DStv_FOX_new4-3logo_med.png" group-title="DSTV",FOX
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/1ec7baa9-525d-49ed-9921-074caef44b02"
+
+#EXTINF:-1 tvg-id=126 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/09/29/DStv_FoxLife_new4-3logo-dark_med.png" group-title="DSTV",FOX Life
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/c84d4526-f10f-436b-af62-92fc0a4f1744"
+
+#EXTINF:-1 tvg-id=129 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/08/18/DStv_BET_new4-3logo-dark_med.png" group-title="DSTV",BET
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/229ec623-f220-40fa-a9e0-0c237ff00d3f"
+
+#EXTINF:-1 tvg-id=131 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/06/14/DStvNowWeb_Lifetime_new4-4logo_001_med.png" group-title="DSTV",Lifetime
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/61d34969-2deb-4bc3-a1e9-97ff46c207a0"
+
+#EXTINF:-1 tvg-id=139 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/08/18/DStv_M-Net-Movies-Zone_new4-3logo-dark_med.png" group-title="DSTV",M-Net Movies Zone
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/a0e986c2-9734-480f-981b-1f7c18852728"
+
+#EXTINF:-1 tvg-id=141 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/06/23/eva_med.png" group-title="DSTV",EVA English
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/26f1066c-4498-47f4-be01-8dfe75a9d4f9"
+
+#EXTINF:-1 tvg-id=144 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/03/30/DStv_channel_new4_3logo_kykNET_Light_and__Dark_003_med.png" group-title="DSTV",kykNET
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/abe5994d-189a-40be-b51d-b15369e4bde7"
+
+#EXTINF:-1 tvg-id=145 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/03/30/DStv_channel_new4_3logo_kyk_Kie_Light_and__Dark_002_med.png" group-title="DSTV",kykNET & Kie
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/5125cb0e-a0ee-4380-9697-8d4eb2c5c718"
+
+#EXTINF:-1 tvg-id=146 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/03/30/DStv_channel_new4_3logo_kykNOU_For-Dark_med.png" group-title="DSTV",kykNET Nou!
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/dcfa84d3-5c6b-4448-9dd0-a5925c315478"
+
+#EXTINF:-1 tvg-id=147 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/05/19/DStv_VIA_new4-3logo_003_med.png" group-title="DSTV",VIA
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/9d13e4d6-d45c-491b-afba-d59f9839e0aa"
+
+#EXTINF:-1 tvg-id=152 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/10/20/Africa-Magic-Epic_new4-3logo_med.png" group-title="DSTV",AfricaMagic Epic
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/9908da19-b506-44d5-92c6-64ab5ca05ae5"
+
+#EXTINF:-1 tvg-id=153 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/10/20/AfricaMagic_Urban_new4-3logo_med.png" group-title="DSTV",Africa Magic Urban
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/a17405a4-7f2b-4366-8983-b93a0b47ee88"
+
+#EXTINF:-1 tvg-id=154 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/10/20/AfricaMagic-Family_Family_new4-3logo_Dark_001_med.png" group-title="DSTV",Africa Magic Family
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/abc333b6-5ec5-43f6-bf76-9aaa770ae991"
+
+#EXTINF:-1 tvg-id=161 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/07/01/DStv_Mzansi-Magic_new4-3logo-light_001_med.png" group-title="DSTV",Mzansi Magic 
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/eb295b07-50c5-472a-9540-7379c31bc78a"
+
+#EXTINF:-1 tvg-id=163 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/08/15/DStv_MzansiWethu_new4-3logo_med.png" group-title="DSTV",Mzansi Wethu
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/2b892f4a-9151-4c02-b6e3-d6dd4eefa866"
+
+#EXTINF:-1 tvg-id=164 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/08/15/DStv_MzansiBioskop_new4-3logo_med.png" group-title="DSTV",Mzansi Bioskop
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/456d08f5-13d0-4dfa-a9b5-a7aa084ee8cc"
+
+#EXTINF:-1 tvg-id=166 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/11/07/DStv_ZeeWorld_4-3_med.png" group-title="DSTV",Zee World
+http://zx.mtfxg.xyz:8081/dstv1/zeeworld_480/chunks.m3u8?nimblesessionid=243086903&wmsAuthSign=c2VydmVyX3RpbWU9My8xNC8yMDI1IDg6NTA6MzQgQU0maGFzaF92YWx1ZT1HNTFyNDRNQmhwSDl3NUNTSVBlQ0pnPT0mdmFsaWRtaW51dGVzPTImaWQ9NTU5Nw==
+
+#EXTINF:-1 tvg-id=168 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/10/31/ROK_new4-3logo_001_med.png" group-title="DSTV",ROK
+http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/1bf6867b-2a1f-4357-8c6b-c844a14be27f"
+
