@@ -9,8 +9,6 @@ http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/2a094aeb-1f4
 #EXTINF:-1 tvg-id=104 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/07/01/DStv_M-Net-Movies-Premiere_new4-3logo_005_med.png" group-title="DSTV",M-Net Movies Premiere
 http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/d7197942-ef3b-4533-a7ed-1d26f41b9d46"
 
-
-
 #EXTINF:-1 tvg-id=105 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/07/01/DStv_M-Net-Movies-Smile_new4-3logo_001_med.png" group-title="DSTV",M-Net Movies Smile
 http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/85ddeeb9-6508-4270-a9b9-cfa247b7021e"
 
@@ -115,8 +113,6 @@ http://zx.mtfxg.xyz:8081/dstv1/zeeworld_480/chunks.m3u8?nimblesessionid=24308690
 
 #EXTINF:-1 tvg-id=168 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/10/31/ROK_new4-3logo_001_med.png" group-title="DSTV",ROK
 http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/1bf6867b-2a1f-4357-8c6b-c844a14be27f"
-
-
 
 #EXTINF:-1 tvg-id=170 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/03/31/Crime_DStv_New_Logo_4-3_001_med.png" group-title="DSTV",Crime + Investigation
 http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/0c517c3a-93b6-402f-9236-428b8e04ba3d"
@@ -255,8 +251,6 @@ http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/439b1abf-601
 
 #EXTINF:-1 tvg-id=412 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/11/07/DStv_BusinessDay_4-3_dark_background_med.png" group-title="DSTV",Business Day TV
 http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/c54c732c-61dd-468f-abdc-49af451dfc98"
-
-etv/play/6b58880d-3f60-4a24-bace-0f37c0495218"
 
 #EXTINF:-1 tvg-id=406 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/06/14/DStvNowWeb_AlJazeera_new4-4logo_med.png" group-title="DSTV",Al Jazeera
 http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/439b1abf-601f-41bd-9add-1a7c08f7426f"
