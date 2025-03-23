@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id=101 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/06/14/DStvNowWeb_M-Net_new4-4logo_med.png" group-title="DSTV",M-Net
-http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/eab73dde-155e-4515-a706-6d1324f9084b"
+http://yesimes.oknirvana.club:8880/D12m2655/32762699/60787
 
 #EXTINF:-1 tvg-id=103 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/08/18/DStv_VuzuAmp_new4-3logo-dark_med.png" group-title="DSTV",Vuzu AMP
 http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/2a094aeb-1f47-44c5-abfe-056ad928db8c"
