@@ -19,7 +19,7 @@ https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 #EXTINF:-1 tvg-id="BBCOne.uk",BBC One
 https://x.canlitvapp.com/u-bbc-1/index.m3u8
-#EXTINF:-1 tvg-id="BBCOneEast.uk",BBC One East (1080p)
+#EXTINF:-1 tvg-id="BBCOneEast.uk" http-referrer="https://cookiewebplay.xyz/",BBC One East (1080p)
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 https://xyzdddd.mizhls.ru/lb/premium356/index.m3u8
 #EXTINF:-1 tvg-id="BBCOneYorkshireLincolnshire.uk",BBC One Yorkshire & Lincolnshire (1080p)
@@ -234,3 +234,35 @@ http://92.114.85.72:8000/play/a09i
 http://92.114.85.72:8000/play/a070
 #EXTINF:-1 tvg-id="TBNUK.uk",TBN UK (576p)
 http://92.114.85.72:8000/play/a0nj
+#EXTINF:-1 tvg-id="UYesterday.uk",U&Yesterday
+http://92.114.85.72:8000/play/aOb3
+#EXTINF:-1 tvg-id="UW.uk",U&W
+http://92.114.85.72:8000/play/a0bj
+#EXTINF:-1 tvg-id="CBeebies.uk",CBeebies
+https://x.canlitvapp.com/u-cbeebies/index.m3u8
+#EXTINF:-1 tvg-id="BBCThree.uk",BBC Three
+https://x.canlitvapp.com/u-bbc3/index.m3u8
+#EXTINF:-1 tvg-id="ITV3.uk",ITV3
+https://x.canlitvapp.com/u-itv3/index.m3u8
+#EXTINF:-1 tvg-id="GREATMystery.uk",GREAT! Mystery (1080p)
+https://linear-861.frequency.stream/dist/lg-uk/861/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="GREATmovies.uk",GREAT! movies (1080p)
+https://amg01753-narrativeuk-amg01753c3-lg-gb-1833.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatmovies-lggb/playlist.m3u8
+#EXTINF:-1 tvg-id="GREATromance.uk",GREAT! romance (1080p)
+https://amg01753-narrativeuk-amg01753c2-lg-gb-1832.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatchristmas-lggb/playlist.m3u8
+#EXTINF:-1 tvg-id="talkSPORT.uk",talkSPORT (1080p)
+https://af7a8b4e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfdGFsa1NQT1JUX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-id="GemsTV.uk",Gems TV (720p)
+https://lo3.gemporia.com/abrgemporiaukgfx/smil:livestream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TBNUK.uk",TBN UK (1080p)
+https://live-tbn-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/tbn-live/manifest.m3u8
+#EXTINF:-1 tvg-id="HobbyMaker.uk",Hobby Maker (720p)
+https://lo3.gemporia.com/abrhobbymakerukgfx/smil:livestreamFullHD.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TJC.uk",TJC (1080p)
+https://cdn-shop-lc-01.vos360.video/Content/HLS_HLS/Live/channel(HDTJCcustomGFX)/master.m3u8
+#EXTINF:-1 tvg-id="WildEarth.uk",WildEarth (1080p)
+https://wildearth-ono.amagi.tv/playlist/amg01290-wildearth-oando/playlist.m3u8
+#EXTINF:-1 tvg-id="ITV4.uk",ITV4 (576p)
+https://x.canlitvapp.com/u-itv4/index.m3u8
+#EXTINF:-1 tvg-id="MTVHitsEurope.uk",MTV Hits Europe
+http://45.88.92.3:80/tr3_MTVHits_SD/index.m3u8?token=test
