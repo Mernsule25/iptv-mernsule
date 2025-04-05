@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/W1dJmYa.png" group-title="Sports",USA 1
+https://live.ugreen.autos/live/embed.php?ch=ch72
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/W1dJmYa.png" group-title="Sports",ESPN 2
 https://director.taihotel.asia/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09SYzQDO3E2MjVDN1QWL3YTY50CN2IGNtUjMlhTLmdTZ0M2MjVzL.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/E6pLvOV.png" group-title="Sports",TNT Sports 2
