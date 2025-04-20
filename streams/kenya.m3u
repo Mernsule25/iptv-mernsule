@@ -8,7 +8,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Ramogi TV (720p)
 https://citizentv.castr.com/5ea49827ff3b5d7b22708777/live_9b761ff063f511eca12909b8ef1524b4/index.m3u8
 #EXTINF:-1 tvg-id="NTVKenya.ke" tvg-logo="https://i.imgur.com/8xhvuJQ.png" group-title="Local",NTV KE
-https://www.youtube.com/watch?v=bJwcB1heKls&ab_channel=NTVKenya
+https://www.youtube.com/live/0gQDaq2i5vA?si=hreu_30EmPT-Owm6
 #EXTINF:-1 tvg-id="AngelTVAfrica.in" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="Religious",Angel TV Africa (720p)
 https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelafrica_all/playlist.m3u8
 #EXTINF:-1 tvg-id="BblackAfrica.fr" tvg-logo="https://i.imgur.com/s1kLdBG.png" group-title="Undefined",BBLACK! AFRICA
@@ -30,7 +30,7 @@ https://5de06ce62a0b5.streamlock.net/k24/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="KBCChannel1.ke" tvg-logo="https://i.imgur.com/Km0GINR.png" group-title="Local", KBC Channel 1 (720p) [Not 24/7]
 https://www.youtube.com/watch?v=K7fzi47bxRM&ab_channel=KBCChannel1TVShows
 #EXTINF:-1 tvg-id="KTNNews.ke" tvg-logo="https://i.imgur.com/AYxanoy.png" group-title="Local", KTN News (720p) [Not 24/7]
-https://www.youtube.com/user/standardgroupkenya/live
+https://www.youtube.com/live/JBV0le5VY50?si=2eQslKyDiIfAI6YP
 #EXTINF:-1 tvg-id="RefletTV.ci" tvg-logo="https://i.imgur.com/EauXR22.png" group-title="Local",REFLET TV (1080p)
 https://edge-a3.evrideo.tv/8f37c9f0-fe22-44f4-b64a-76ad11730daf_1000026630_HLS/manifest.m3u8
 #EXTINF:-1 tvg-id="RefletTV.ci" tvg-logo="https://i.imgur.com/EauXR22.png" group-title="Sports",DZN Sports (1080p)
@@ -71,10 +71,6 @@ https://streamer1.nexgen.bz/MTV/index.m3u8
 https://alt-al.otteravision.com/alt/al/al.m3u8
 #EXTINF:-1, ZeeOne (DE)
 https://ef56ef401101403a8b06f1dec29ef1eb.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_ZeeOne/playlist.m3u8
-#EXTINF:-1, SuperSport Premier League
-https://850466559.cdnmistreat.net:8443/hls/m4vi31opfdn06q4.m3u8?s=8HilsKvLUdQZ_sSoeS0VUg&e=1736037080
-#EXTINF:-1, Sky Sport live
-https://hrmgogo.xyz/chunklist/hlsch10.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjUgNiA6NDkgOjEwICBQTSZoYXNoX3ZhbHVlPUFabjF5dVNPTHJXWUJIcExYNlVXb2c9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTE1Mi40Mi4xOTMuMTg5JnN0cm1fbGVuPTU=
 #EXTINF:-1, YOUNIB MediaTV
 https://goliveafrica.media:9998/live/6257fbe7383d6/index.m3u8
 #EXTINF:-1, SayareTV
@@ -108,9 +104,7 @@ http://143.244.60.30/NICKTOONS/index.m3u8
 #EXTINF:-1, MyTime Movie Network
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Pv22Xat.png" group-title="Local",Citizen KE TV
-https://www.youtube.com/live/cAkh39-605I?si=AC2oMT8vK9iIBAd7
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Real Madrid TV
-http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
+https://www.youtube.com/live/DRujNSZz7x0?si=3UDzJe5ODwIIOS6z
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",beIN Sports Haber
 https://canlitvulusal3.xyz/live/beinsportshaber/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",MTV Pluto TV
@@ -129,7 +123,5 @@ https://bein-xtra-xumo.amagi.tv/playlist.m3u8
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5f89b39e-273a-43e4-8664-6b0d3d3b0fef
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DLIbUMx.png" group-title="Music", Trace Urban	
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DLIbUMx.png" group-title="Music", PPP	
-http://gcp-video.gslb.startimestv.com/live_g/PPP_TV_1202_500_480x360_v1_FMP4/playlist.m3u8
 #EXTINF:-1 tvg-id=166 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/11/07/DStv_ZeeWorld_4-3_med.png" group-title="DSTV",Zee World
 http://af.mtfxg.xyz:8081/canada1/zeeworld/chunks.m3u8?nimblesessionid=46264375&wmsAuthSign=c2VydmVyX3RpbWU9My8xNC8yMDI1IDk6NTA6NDEgQU0maGFzaF92YWx1ZT1MNkViZC9TZlpJMzV2MHV2UEFjT0hBPT0mdmFsaWRtaW51dGVzPTImaWQ9Nzc1Mg==
