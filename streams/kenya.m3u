@@ -1,14 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/W1dJmYa.png" group-title="Sports",USA 1
-https://live.ugreen.autos/live/embed.php?ch=ch72
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/W1dJmYa.png" group-title="Sports",ESPN 2
-https://director.taihotel.asia/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09SYzQDO3E2MjVDN1QWL3YTY50CN2IGNtUjMlhTLmdTZ0M2MjVzL.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/E6pLvOV.png" group-title="Sports",TNT Sports 2
-https://director.taihotel.asia/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09SZmBzYlVDZjFjY4IWLyIjN40yM3ADNtImM4EWL1EzY5ITYmdzL.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://a.jsrdn.com/hls/23208/sports-first-tv/logo_20250211_205731_70.png" group-title="Sports",Sports First TV
-https://director.taihotel.asia/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09SZmBzYlVDZjFjY4IWLyIjN40yM3ADNtImM4EWL1EzY5ITYmdzL.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CUVAi4u.png" group-title="Music",Trace Latina
 https://amg01131-tracetv-tracelatina-klowdtv-v10em.amagi.tv/playlist/amg01131-tracetv-tracelatina-klowdtv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://a.jsrdn.com/hls/23208/sports-first-tv/logo_20250211_205731_70.png" group-title="Sports",Sports First TV
+https://director.taihotel.asia/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09SZmBzYlVDZjFjY4IWLyIjN40yM3ADNtImM4EWL1EzY5ITYmdzL.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://a.jsrdn.com/hls/23073/trace-brazuca/logo_20231219_223457_68.png" group-title="Music",Trace Brazuka
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-brazuca/7e62c82c-00b4-438c-991e-c9d519d302b9/0.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Ramogi TV (720p)
