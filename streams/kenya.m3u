@@ -4,7 +4,7 @@ https://amg01131-tracetv-tracelatina-klowdtv-v10em.amagi.tv/playlist/amg01131-tr
 #EXTINF:-1 tvg-id="" tvg-logo="https://a.jsrdn.com/hls/23208/sports-first-tv/logo_20250211_205731_70.png" group-title="Sports",Sports First TV
 https://director.taihotel.asia/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09SZmBzYlVDZjFjY4IWLyIjN40yM3ADNtImM4EWL1EzY5ITYmdzL.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://a.jsrdn.com/hls/23073/trace-brazuca/logo_20231219_223457_68.png" group-title="Music",Trace Brazuka
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-brazuca/7e62c82c-00b4-438c-991e-c9d519d302b9/0.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-brazuca/44548746-216e-4281-979d-f87070c456b8/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Ramogi TV (720p)
 https://citizentv.castr.com/5ea49827ff3b5d7b22708777/live_9b761ff063f511eca12909b8ef1524b4/index.m3u8
 #EXTINF:-1 tvg-id="NTVKenya.ke" tvg-logo="https://i.imgur.com/8xhvuJQ.png" group-title="Local",NTV KE
@@ -125,3 +125,5 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id=166 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/11/07/DStv_ZeeWorld_4-3_med.png" group-title="DSTV",Zee World
 http://af.mtfxg.xyz:8081/canada1/zeeworld/chunks.m3u8?nimblesessionid=46264375&wmsAuthSign=c2VydmVyX3RpbWU9My8xNC8yMDI1IDk6NTA6NDEgQU0maGFzaF92YWx1ZT1MNkViZC9TZlpJMzV2MHV2UEFjT0hBPT0mdmFsaWRtaW51dGVzPTImaWQ9Nzc1Mg==
+#EXTINF:-1 tvg-id=406 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/06/14/DStvNowWeb_AlJazeera_new4-4logo_med.png" group-title="News",Al Jazeera
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
