@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CUVAi4u.png" group-title="Music",Trace Latina
 https://amg01131-tracetv-tracelatina-klowdtv-v10em.amagi.tv/playlist/amg01131-tracetv-tracelatina-klowdtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://a.jsrdn.com/hls/23208/sports-first-tv/logo_20250211_205731_70.png" group-title="Sports",Sports First TV
-https://director.taihotel.asia/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09SZmBzYlVDZjFjY4IWLyIjN40yM3ADNtImM4EWL1EzY5ITYmdzL.m3u8
+https://d2396zb8liu8hs.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-SportsFirstTV/f0ef5f88-721a-411c-90c9-9450419dc15d/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://a.jsrdn.com/hls/23073/trace-brazuca/logo_20231219_223457_68.png" group-title="Music",Trace Brazuka
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-brazuca/44548746-216e-4281-979d-f87070c456b8/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Ramogi TV (720p)
@@ -109,7 +109,7 @@ https://www.youtube.com/live/DRujNSZz7x0?si=3UDzJe5ODwIIOS6z
 https://canlitvulusal3.xyz/live/beinsportshaber/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",MTV Pluto TV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a29f2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=21f0e654-cec9-4722-a81b-dd17d02581d3
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Kids Flix
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kids",Kids Flix
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Action Hollywood Movies
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
@@ -120,10 +120,14 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-id="https://beinsports.com/" tvg-logo="https://i.imgur.com/uJosqHh.png" group-title="Sports",BeIN SPORT EXTRA 
 https://bein-xtra-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/V562tpO.png" group-title="Sports",BeIN SPORT EXTRA Espaniol
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5f89b39e-273a-43e4-8664-6b0d3d3b0fef
+https://bein-esp-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DLIbUMx.png" group-title="Music", Trace Urban	
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id=166 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/11/07/DStv_ZeeWorld_4-3_med.png" group-title="DSTV",Zee World
 http://af.mtfxg.xyz:8081/canada1/zeeworld/chunks.m3u8?nimblesessionid=46264375&wmsAuthSign=c2VydmVyX3RpbWU9My8xNC8yMDI1IDk6NTA6NDEgQU0maGFzaF92YWx1ZT1MNkViZC9TZlpJMzV2MHV2UEFjT0hBPT0mdmFsaWRtaW51dGVzPTImaWQ9Nzc1Mg==
 #EXTINF:-1 tvg-id=406 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/06/14/DStvNowWeb_AlJazeera_new4-4logo_med.png" group-title="News",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1 tvg-id=406 tvg-logo="" group-title="News",Crime + Investigation (United States)
+https://v2.thetvapp.to/hls/CrimePlusInvestigation/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-id=406 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/512px-FXM_Logo.svg.png" group-title="Movies",FX Movie Channel
+https://v12.thetvapp.to/hls/FXMovieChannel/tracks-v2a1/mono.m3u8
