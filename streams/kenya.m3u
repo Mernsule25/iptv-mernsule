@@ -18,7 +18,7 @@ https://streamer1.nexgen.bz/MTV/index.m3u8
 https://cdn5.iqsat.net/iq/aa89b15058a61b904359307cc0a5e80a.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/M2Fnxj7.png" group-title="Religious", SayareTV
 https://goliveafrica.media:9998/live/636dedfa327d7/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rMqrLzV.png" group-title="Religious", DacwaTV.ke
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Religious", DacwaTV.ke
 https://ap02.iqplay.tv:8082/iqb8002/d13w1/playlist.m3u8
 #EXTINF:-1 tvg-id="AngelTVAfrica.in" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="Religious", Angel TV Africa (720p)
 https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelafrica_all/playlist.m3u8
@@ -74,7 +74,7 @@ http://livevideo.vedge.infomaniak.com/livecast/ik:bblackafrica/manifest.m3u8
 https://74937.global.ssl.fastly.net/5ea49827ff3b5d7b22708777/live_40c5808063f711ec89a87b62db2ecab5/index.m3u8
 #EXTINF:-1 tvg-id="CNBCAfrica.za" tvg-logo="https://i.imgur.com/BnNYzWI.png" group-title="Local", CNBC Africa (480p)
 https://5be2f59e715dd.streamlock.net/CNBC/smil:CNBCSandton.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="HausaTV.ir" tvg-logo="https://i.ibb.co/fxXrKjN/IMG-20230629-141854.jpg" group-title="Local", Hausa TV (432p)
+#EXTINF:-1 tvg-id="HausaTV.ir" tvg-logo="https://i.ibb.co/fxXrKjN/IMG-20230629-141854.jpg" group-title="Documentary", Hausa TV (432p)
 https://live1.presstv.ir/live/hausatvha/index.m3u8
 #EXTINF:-1 tvg-id="InooroTV.ke" tvg-logo="https://i.imgur.com/5qFJtmo.png" group-title="Local", Inooro TV (720p)
 https://74937-castr.akamaized.net/5ea49827ff3b5d7b22708777/live_cd93fa8063f411ecb28b5d4f40b51a46/index.m3u8
@@ -109,6 +109,8 @@ https://origin3.afxp.telemedia.co.za/PremiumFree/romanza/playlist.m3u8
 
 
 #SPORTS
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports", beIN Sports Haber
+https://canlitvulusal3.xyz/live/beinsportshaber/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://a.jsrdn.com/hls/23208/sports-first-tv/logo_20250211_205731_70.png" group-title="Sports", Sports First TV
 https://d2396zb8liu8hs.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-SportsFirstTV/f0ef5f88-721a-411c-90c9-9450419dc15d/1.m3u8
 #EXTINF:-1 tvg-id="https://beinsports.com/" tvg-logo="https://i.imgur.com/uJosqHh.png" group-title="Sports", BeIN SPORT EXTRA 
@@ -125,8 +127,6 @@ https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/8c78JM28/image.png" group-title="Sports", Red Bull TV
 https://shls-live-enc.edgenextcdn.net/out/v1/ad35123d4ad041068bce26ae67ee3180/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QWo0x7S.jpg" group-title="Sports", beIN Sports Haber
-https://canlitvulusal3.xyz/live/beinsportshaber/index.m3u8
  
 
 
@@ -145,9 +145,9 @@ https://v12.thetvapp.to/hls/FXMovieChannel/tracks-v2a1/mono.m3u8
 https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/live/playlist.m3u8
 
 #NEWS
-#EXTINF:-1 tvg-id=406 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/06/14/DStvNowWeb_AlJazeera_new4-4logo_med.png" group-title="News", Al Jazeera
+#EXTINF:-1 tvg-id=406 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/06/14/DStvNowWeb_AlJazeera_new4-4logo_med.png" group-title="News",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="News", Bloomberg TV EMEA Live Event (720p)
+#EXTINF:-1 tvg-id="BloombergTVEMEALiveEvent.uk" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="News",Bloomberg TV EMEA Live Event (720p)
 https://bloomberg.com/media-manifest/streams/eu-event.m3u8
 #EXTINF:-1 tvg-id="Canal2International.cm" tvg-logo="https://i.imgur.com/BzA2z7m.png" group-title="News",Canal 2 International
 https://tgn.bozztv.com/ssh101/ssh101/canal2live/playlist.m3u8
