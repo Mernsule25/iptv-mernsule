@@ -12,7 +12,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Music", MTVEast US
 https://streamer1.nexgen.bz/MTV/index.m3u8
 
-
 #RELIGION 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tlylDbi.png" group-title="Religious", Hilaal TV
 https://cdn5.iqsat.net/iq/aa89b15058a61b904359307cc0a5e80a.sdp/playlist.m3u8
@@ -24,7 +23,6 @@ https://ap02.iqplay.tv:8082/iqb8002/d13w1/playlist.m3u8
 https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelafrica_all/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/uIlU5im.jpg" group-title="Religious" HIS Grace TV
 https://goliveafrica.media:9998/live/6593c35f9c090/index.m3u8
-
 
 #KIDS
 #EXTINF:-1 tvg-id="" tvg-logo="https://th.bing.com/th/id/OIP.AiG3hP8zYz2L-eSUxEXSIQHaCE?w=340&h=97&c=7&r=0&o=5&pid=1.7" group-title="Kids", Cartoonito sd
@@ -59,7 +57,6 @@ https://weyyak-live.akamaized.net/weyyak_afrokiddos/index.m3u8
 https://origin3.afxp.telemedia.co.za/PremiumFree/kiddiwinks/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/fVVKpmk.png" group-title="Kids", TiVi5 Monde
 https://ott.tv5monde.com/Content/HLS/Live/channel(tivi5)/variant.m3u8
-
 
 #LOCAL
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Pv22Xat.png" group-title="Local",Citizen KE TV
@@ -107,7 +104,6 @@ https://goliveafrica.media:9998/live/6257fbe7383d6/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HYg75w2.png" group-title="Local", Romanza+ Africa
 https://origin3.afxp.telemedia.co.za/PremiumFree/romanza/playlist.m3u8
 
-
 #SPORTS
 #EXTINF:-1 tvg-id="" tvg-logo="https://a.jsrdn.com/hls/23208/sports-first-tv/logo_20250211_205731_70.png" group-title="Sports", Sports First TV
 https://d2396zb8liu8hs.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-SportsFirstTV/f0ef5f88-721a-411c-90c9-9450419dc15d/1.m3u8
@@ -128,8 +124,6 @@ https://shls-live-enc.edgenextcdn.net/out/v1/ad35123d4ad041068bce26ae67ee3180/in
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QWo0x7S.jpg" group-title="Sports", beIN Sports Haber
 https://canlitvulusal3.xyz/live/beinsportshaber/index.m3u8
  
-
-
 #MOVIES
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies", MyTime Movie Network
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
