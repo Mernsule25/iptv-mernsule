@@ -1,4 +1,55 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/N2Uz9mc.jpg" group-title="Local", Ramogi TV (720p)
+https://citizentv.castr.com/5ea49827ff3b5d7b22708777/live_9b761ff063f511eca12909b8ef1524b4/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Pv22Xat.png" group-title="Local",Citizen KE TV
+https://www.youtube.com/live/DRujNSZz7x0?si=3UDzJe5ODwIIOS6z
+#EXTINF:-1 tvg-id="NTVKenya.ke" tvg-logo="https://i.imgur.com/8xhvuJQ.png" group-title="Local", NTV KE
+https://www.youtube.com/live/0gQDaq2i5vA?si=hreu_30EmPT-Owm6
+#EXTINF:-1 tvg-id="BblackAfrica.fr" tvg-logo="https://i.imgur.com/s1kLdBG.png" group-title="Local", BBLACK! AFRICA
+http://livevideo.vedge.infomaniak.com/livecast/ik:bblackafrica/manifest.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Local", Citizen Extra (720p)
+https://74937.global.ssl.fastly.net/5ea49827ff3b5d7b22708777/live_40c5808063f711ec89a87b62db2ecab5/index.m3u8
+#EXTINF:-1 tvg-id="CNBCAfrica.za" tvg-logo="https://i.imgur.com/BnNYzWI.png" group-title="Local", CNBC Africa (480p)
+https://5be2f59e715dd.streamlock.net/CNBC/smil:CNBCSandton.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="HausaTV.ir" tvg-logo="https://i.ibb.co/fxXrKjN/IMG-20230629-141854.jpg" group-title="Documentary", Hausa TV (432p)
+https://live1.presstv.ir/live/hausatvha/index.m3u8
+#EXTINF:-1 tvg-id="InooroTV.ke" tvg-logo="https://i.imgur.com/5qFJtmo.png" group-title="Local", Inooro TV (720p)
+https://74937-castr.akamaized.net/5ea49827ff3b5d7b22708777/live_cd93fa8063f411ecb28b5d4f40b51a46/index.m3u8
+#EXTINF:-1 tvg-id="K24.ke" tvg-logo="https://i.imgur.com/SUjo6Bm.png" group-title="Local",K24 (720p)
+https://daddylive.mp/embed/stream-404.php
+#EXTINF:-1 tvg-id="KBCChannel1.ke" tvg-logo="https://i.imgur.com/Km0GINR.png" group-title="Local", KBC Channel 1 (720p) [Not 24/7]
+https://www.youtube.com/watch?v=K7fzi47bxRM&ab_channel=KBCChannel1TVShows
+#EXTINF:-1 tvg-id="KTNNews.ke" tvg-logo="https://i.imgur.com/AYxanoy.png" group-title="Local", KTN News (720p) [Not 24/7]
+https://www.youtube.com/live/JBV0le5VY50?si=2eQslKyDiIfAI6YP
+#EXTINF:-1 tvg-id="RefletTV.ci" tvg-logo="https://i.imgur.com/EauXR22.png" group-title="Local", REFLET TV (1080p)
+https://edge-a3.evrideo.tv/8f37c9f0-fe22-44f4-b64a-76ad11730daf_1000026630_HLS/manifest.m3u8
+#EXTINF:-1 tvg-id="TBNAfrica.za" tvg-logo="https://i.imgur.com/6VjLFmR.png" group-title="Local", TBN Africa (540p)
+https://tbn-jw.cdn.vustreams.com/live/tbn-africa/live.isml/cc850928-d0d8-4336-84d0-999581129465.m3u8
+#EXTINF:-1 tvg-id="Tele7.es" tvg-logo="https://i.imgur.com/JcuV9ZE.png" group-title="Local", Tele 7 (720p)
+https://ingest2-video.streaming-pro.com/tele7_ABR/stream/playlist.m3u8
+#EXTINF:-1, ElevateTV 
+https://goliveafrica.media:9998/live/6713535499dc2/index.m3u8
+#EXTINF:-1, HIS Grace TV
+https://goliveafrica.media:9998/live/6593c35f9c090/index.m3u8
+#EXTINF:-1, FaithTodayTV
+https://goliveafrica.media:9998/live/65fe931f3fe4e/index.m3u8
+#EXTINF:-1, ABOOD TV (TZ)
+https://goliveafrica.media:9998/live/644db46d1b776/index.m3u8
+#EXTINF:-1, RomanzaPlusAfrica
+https://origin3.afxp.telemedia.co.za/PremiumFree/romanza/playlist.m3u8
+#EXTINF:-1, MeruTV
+https://goliveafrica.media:9998/live/628e5c1991061/index.m3u8
+#EXTINF:-1, LolweTV.ke
+https://goliveafrica.media:9998/live/62580e144eb43/index.m3u8
+#EXTINF:-1, InooroTV.ke
+https://74937-castr.akamaized.net/5ea49827ff3b5d7b22708777/live_cd93fa8063f411ecb28b5d4f40b51a46/index.m3u8
+#EXTINF:-1, YOUNIB MediaTV
+https://goliveafrica.media:9998/live/6257fbe7383d6/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HYg75w2.png" group-title="Local", Romanza+ Africa
+https://origin3.afxp.telemedia.co.za/PremiumFree/romanza/playlist.m3u8
+
+
+#MUSIC
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CUVAi4u.png" group-title="Music",Trace Latina
 https://amg01131-tracetv-tracelatina-klowdtv-v10em.amagi.tv/playlist/amg01131-tracetv-tracelatina-klowdtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://a.jsrdn.com/hls/23073/trace-brazuca/logo_20231219_223457_68.png" group-title="Music",Trace Brazuka
@@ -59,57 +110,6 @@ https://weyyak-live.akamaized.net/weyyak_afrokiddos/index.m3u8
 https://origin3.afxp.telemedia.co.za/PremiumFree/kiddiwinks/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/fVVKpmk.png" group-title="Kids", TiVi5 Monde
 https://ott.tv5monde.com/Content/HLS/Live/channel(tivi5)/variant.m3u8
-
-
-#LOCAL
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Pv22Xat.png" group-title="Local",Citizen KE TV
-https://www.youtube.com/live/DRujNSZz7x0?si=3UDzJe5ODwIIOS6z
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/N2Uz9mc.jpg" group-title="Local", Ramogi TV (720p)
-https://citizentv.castr.com/5ea49827ff3b5d7b22708777/live_9b761ff063f511eca12909b8ef1524b4/index.m3u8
-#EXTINF:-1 tvg-id="NTVKenya.ke" tvg-logo="https://i.imgur.com/8xhvuJQ.png" group-title="Local", NTV KE
-https://www.youtube.com/live/0gQDaq2i5vA?si=hreu_30EmPT-Owm6
-#EXTINF:-1 tvg-id="BblackAfrica.fr" tvg-logo="https://i.imgur.com/s1kLdBG.png" group-title="Local", BBLACK! AFRICA
-http://livevideo.vedge.infomaniak.com/livecast/ik:bblackafrica/manifest.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Local", Citizen Extra (720p)
-https://74937.global.ssl.fastly.net/5ea49827ff3b5d7b22708777/live_40c5808063f711ec89a87b62db2ecab5/index.m3u8
-#EXTINF:-1 tvg-id="CNBCAfrica.za" tvg-logo="https://i.imgur.com/BnNYzWI.png" group-title="Local", CNBC Africa (480p)
-https://5be2f59e715dd.streamlock.net/CNBC/smil:CNBCSandton.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="HausaTV.ir" tvg-logo="https://i.ibb.co/fxXrKjN/IMG-20230629-141854.jpg" group-title="Documentary", Hausa TV (432p)
-https://live1.presstv.ir/live/hausatvha/index.m3u8
-#EXTINF:-1 tvg-id="InooroTV.ke" tvg-logo="https://i.imgur.com/5qFJtmo.png" group-title="Local", Inooro TV (720p)
-https://74937-castr.akamaized.net/5ea49827ff3b5d7b22708777/live_cd93fa8063f411ecb28b5d4f40b51a46/index.m3u8
-#EXTINF:-1 tvg-id="K24.ke" tvg-logo="https://i.imgur.com/SUjo6Bm.png" group-title="Local",K24 (720p)
-https://daddylive.mp/embed/stream-404.php
-#EXTINF:-1 tvg-id="KBCChannel1.ke" tvg-logo="https://i.imgur.com/Km0GINR.png" group-title="Local", KBC Channel 1 (720p) [Not 24/7]
-https://www.youtube.com/watch?v=K7fzi47bxRM&ab_channel=KBCChannel1TVShows
-#EXTINF:-1 tvg-id="KTNNews.ke" tvg-logo="https://i.imgur.com/AYxanoy.png" group-title="Local", KTN News (720p) [Not 24/7]
-https://www.youtube.com/live/JBV0le5VY50?si=2eQslKyDiIfAI6YP
-#EXTINF:-1 tvg-id="RefletTV.ci" tvg-logo="https://i.imgur.com/EauXR22.png" group-title="Local", REFLET TV (1080p)
-https://edge-a3.evrideo.tv/8f37c9f0-fe22-44f4-b64a-76ad11730daf_1000026630_HLS/manifest.m3u8
-#EXTINF:-1 tvg-id="TBNAfrica.za" tvg-logo="https://i.imgur.com/6VjLFmR.png" group-title="Local", TBN Africa (540p)
-https://tbn-jw.cdn.vustreams.com/live/tbn-africa/live.isml/cc850928-d0d8-4336-84d0-999581129465.m3u8
-#EXTINF:-1 tvg-id="Tele7.es" tvg-logo="https://i.imgur.com/JcuV9ZE.png" group-title="Local", Tele 7 (720p)
-https://ingest2-video.streaming-pro.com/tele7_ABR/stream/playlist.m3u8
-#EXTINF:-1, ElevateTV 
-https://goliveafrica.media:9998/live/6713535499dc2/index.m3u8
-#EXTINF:-1, HIS Grace TV
-https://goliveafrica.media:9998/live/6593c35f9c090/index.m3u8
-#EXTINF:-1, FaithTodayTV
-https://goliveafrica.media:9998/live/65fe931f3fe4e/index.m3u8
-#EXTINF:-1, ABOOD TV (TZ)
-https://goliveafrica.media:9998/live/644db46d1b776/index.m3u8
-#EXTINF:-1, RomanzaPlusAfrica
-https://origin3.afxp.telemedia.co.za/PremiumFree/romanza/playlist.m3u8
-#EXTINF:-1, MeruTV
-https://goliveafrica.media:9998/live/628e5c1991061/index.m3u8
-#EXTINF:-1, LolweTV.ke
-https://goliveafrica.media:9998/live/62580e144eb43/index.m3u8
-#EXTINF:-1, InooroTV.ke
-https://74937-castr.akamaized.net/5ea49827ff3b5d7b22708777/live_cd93fa8063f411ecb28b5d4f40b51a46/index.m3u8
-#EXTINF:-1, YOUNIB MediaTV
-https://goliveafrica.media:9998/live/6257fbe7383d6/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HYg75w2.png" group-title="Local", Romanza+ Africa
-https://origin3.afxp.telemedia.co.za/PremiumFree/romanza/playlist.m3u8
 
 
 #SPORTS
