@@ -1,4 +1,170 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/N2Uz9mc.jpg" group-title="Local", Ramogi TV (720p)
+https://citizentv.castr.com/5ea49827ff3b5d7b22708777/live_9b761ff063f511eca12909b8ef1524b4/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Pv22Xat.png" group-title="Local",Citizen KE TV
+https://www.youtube.com/live/DRujNSZz7x0?si=3UDzJe5ODwIIOS6z
+#EXTINF:-1 tvg-id="NTVKenya.ke" tvg-logo="https://i.imgur.com/8xhvuJQ.png" group-title="Local", NTV KE
+https://www.youtube.com/live/0gQDaq2i5vA?si=hreu_30EmPT-Owm6
+#EXTINF:-1 tvg-id="BblackAfrica.fr" tvg-logo="https://i.imgur.com/s1kLdBG.png" group-title="Local", BBLACK! AFRICA
+http://livevideo.vedge.infomaniak.com/livecast/ik:bblackafrica/manifest.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Local", Citizen Extra (720p)
+https://74937.global.ssl.fastly.net/5ea49827ff3b5d7b22708777/live_40c5808063f711ec89a87b62db2ecab5/index.m3u8
+#EXTINF:-1 tvg-id="CNBCAfrica.za" tvg-logo="https://i.imgur.com/BnNYzWI.png" group-title="Local", CNBC Africa (480p)
+https://5be2f59e715dd.streamlock.net/CNBC/smil:CNBCSandton.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="HausaTV.ir" tvg-logo="https://i.ibb.co/fxXrKjN/IMG-20230629-141854.jpg" group-title="Documentary", Hausa TV (432p)
+https://live1.presstv.ir/live/hausatvha/index.m3u8
+#EXTINF:-1 tvg-id="InooroTV.ke" tvg-logo="https://i.imgur.com/5qFJtmo.png" group-title="Local", Inooro TV (720p)
+https://74937-castr.akamaized.net/5ea49827ff3b5d7b22708777/live_cd93fa8063f411ecb28b5d4f40b51a46/index.m3u8
+#EXTINF:-1 tvg-id="K24.ke" tvg-logo="https://i.imgur.com/SUjo6Bm.png" group-title="Local",K24 (720p)
+https://daddylive.mp/embed/stream-404.php
+#EXTINF:-1 tvg-id="KBCChannel1.ke" tvg-logo="https://i.imgur.com/Km0GINR.png" group-title="Local", KBC Channel 1 (720p) [Not 24/7]
+https://www.youtube.com/watch?v=K7fzi47bxRM&ab_channel=KBCChannel1TVShows
+#EXTINF:-1 tvg-id="KTNNews.ke" tvg-logo="https://i.imgur.com/AYxanoy.png" group-title="Local", KTN News (720p) [Not 24/7]
+https://www.youtube.com/live/JBV0le5VY50?si=2eQslKyDiIfAI6YP
+#EXTINF:-1 tvg-id="RefletTV.ci" tvg-logo="https://i.imgur.com/EauXR22.png" group-title="Local", REFLET TV (1080p)
+https://edge-a3.evrideo.tv/8f37c9f0-fe22-44f4-b64a-76ad11730daf_1000026630_HLS/manifest.m3u8
+#EXTINF:-1 tvg-id="TBNAfrica.za" tvg-logo="https://i.imgur.com/6VjLFmR.png" group-title="Local", TBN Africa (540p)
+https://tbn-jw.cdn.vustreams.com/live/tbn-africa/live.isml/cc850928-d0d8-4336-84d0-999581129465.m3u8
+#EXTINF:-1 tvg-id="Tele7.es" tvg-logo="https://i.imgur.com/JcuV9ZE.png" group-title="Local", Tele 7 (720p)
+https://ingest2-video.streaming-pro.com/tele7_ABR/stream/playlist.m3u8
+#EXTINF:-1, ElevateTV 
+https://goliveafrica.media:9998/live/6713535499dc2/index.m3u8
+#EXTINF:-1, HIS Grace TV
+https://goliveafrica.media:9998/live/6593c35f9c090/index.m3u8
+#EXTINF:-1, FaithTodayTV
+https://goliveafrica.media:9998/live/65fe931f3fe4e/index.m3u8
+#EXTINF:-1, ABOOD TV (TZ)
+https://goliveafrica.media:9998/live/644db46d1b776/index.m3u8
+#EXTINF:-1, RomanzaPlusAfrica
+https://origin3.afxp.telemedia.co.za/PremiumFree/romanza/playlist.m3u8
+#EXTINF:-1, MeruTV
+https://goliveafrica.media:9998/live/628e5c1991061/index.m3u8
+#EXTINF:-1, LolweTV.ke
+https://goliveafrica.media:9998/live/62580e144eb43/index.m3u8
+#EXTINF:-1, InooroTV.ke
+https://74937-castr.akamaized.net/5ea49827ff3b5d7b22708777/live_cd93fa8063f411ecb28b5d4f40b51a46/index.m3u8
+#EXTINF:-1, YOUNIB MediaTV
+https://goliveafrica.media:9998/live/6257fbe7383d6/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HYg75w2.png" group-title="Local", Romanza+ Africa
+https://origin3.afxp.telemedia.co.za/PremiumFree/romanza/playlist.m3u8
+
+
+#MUSIC
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CUVAi4u.png" group-title="Music",Trace Latina
+https://amg01131-tracetv-tracelatina-klowdtv-v10em.amagi.tv/playlist/amg01131-tracetv-tracelatina-klowdtv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://a.jsrdn.com/hls/23073/trace-brazuca/logo_20231219_223457_68.png" group-title="Music",Trace Brazuka
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-brazuca/44548746-216e-4281-979d-f87070c456b8/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://a.jsrdn.com/hls/23073/trace-uk/logo_20240627_183320_70.png" group-title="Music",Trace UK Hits
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-uk/encrypted.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DLIbUMx.png" group-title="Music", Trace Urban	
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Music", MTV Pluto TV
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a29f2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=21f0e654-cec9-4722-a81b-dd17d02581d3
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Music", MTVEast US
+https://streamer1.nexgen.bz/MTV/index.m3u8
+
+
+#RELIGION 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tlylDbi.png" group-title="Religious", Hilaal TV
+https://cdn5.iqsat.net/iq/aa89b15058a61b904359307cc0a5e80a.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/M2Fnxj7.png" group-title="Religious", SayareTV
+https://goliveafrica.media:9998/live/636dedfa327d7/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Religious", DacwaTV.ke
+https://ap02.iqplay.tv:8082/iqb8002/d13w1/playlist.m3u8
+#EXTINF:-1 tvg-id="AngelTVAfrica.in" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="Religious",Angel TV Africa (720p)
+https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelafrica_all/playlist.m3u8
+
+
+#KIDS
+#EXTINF:-1 tvg-id="" tvg-logo="https://th.bing.com/th/id/OIP.AiG3hP8zYz2L-eSUxEXSIQHaCE?w=340&h=97&c=7&r=0&o=5&pid=1.7" group-title="Kids", Cartoonito sd
+https://v3.thetvapp.to/hls/CartoonNetworkEast/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vZHtxQb.png" group-title="Kids", Moonbug Kids
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+#EXTINF:-1, NickelodeonEast
+http://143.244.60.30/NICKELODEON/index.m3u8
+#EXTINF:-1, NickJrEast
+https://fl5.moveonjoy.com/NICK_JR/index.m3u8
+#EXTINF:-1, NickJrPlutoTV
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5106-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d95e31ff-c65d-438c-9466-ddbbd097b4cf
+#EXTINF:-1, NickMusic
+http://fl5.moveonjoy.com/NICK_MUSIC/index.m3u8
+#EXTINF:-1, NickToons East
+http://143.244.60.30/NICKTOONS/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kids",Kids Flix
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png" group-title="Kids", DISNEY_CHANNEL 
+https://tvpass.org/live/DisneyChannelEast/sd
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png" group-title="Kids", DISNEY_CHANNEL HD
+https://tvpass.org/live/DisneyChannelEast/hd
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/512px-Disney_XD_-_2015.svg.png" group-title="Kids", Disney XD East
+https://tvpass.org/live/DisneyXDEast/sd
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Disney_Jr._2024.svg/512px-Disney_Jr._2024.svg.png" group-title="Kids", Disney Junior
+http:\\109.233.89.166\Disney_Junior\mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Disney_Jr._2024.svg/512px-Disney_Jr._2024.svg.png" group-title="Kids", DISNEY JR EAST SD
+https://tvpass.org/live/DisneyJuniorEast/sd
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Disney_Jr._2024.svg/512px-Disney_Jr._2024.svg.png" group-title="Kids", DISNEY JR EAST HD
+https://tvpass.org/live/DisneyJuniorEast/hd
+#EXTINF:-1 tvg-id="" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/66758af777.png" group-title="Kids", Mern kiddos
+https://weyyak-live.akamaized.net/weyyak_afrokiddos/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://th.bing.com/th/id/OIP.fBWCI2Ocz63RWnn1QmRFEAHaGs?w=203&h=184&c=7&r=0&o=5&dpr=1.3&pid=1.7" group-title="Kids", Akili kids
+https://origin3.afxp.telemedia.co.za/PremiumFree/kiddiwinks/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/fVVKpmk.png" group-title="Kids", TiVi5 Monde
+https://ott.tv5monde.com/Content/HLS/Live/channel(tivi5)/variant.m3u8
+
+
+#SPORTS
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports", beIN Sports Haber
+https://canlitvulusal3.xyz/live/beinsportshaber/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://a.jsrdn.com/hls/23208/sports-first-tv/logo_20250211_205731_70.png" group-title="Sports", Sports First TV
+https://d2396zb8liu8hs.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-SportsFirstTV/f0ef5f88-721a-411c-90c9-9450419dc15d/1.m3u8
+#EXTINF:-1 tvg-id="https://beinsports.com/" tvg-logo="https://i.imgur.com/uJosqHh.png" group-title="Sports", BeIN SPORT EXTRA 
+https://bein-xtra-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/V562tpO.png" group-title="Sports", BeIN SPORT EXTRA Espaniol
+https://bein-esp-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/EauXR22.png" group-title="Sports", DZN Sports (1080p)
+https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/4rVm3oZ.png" group-title="Sports", AbuDhabi Sports Channel 2
+https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FabFP5A.png" group-title="Sports", Trace Sport Stars
+https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6BVWk8z.png" group-title="Sports", AbuDhabi Sports Channel 1
+https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/8c78JM28/image.png" group-title="Sports", Red Bull TV
+https://shls-live-enc.edgenextcdn.net/out/v1/ad35123d4ad041068bce26ae67ee3180/index.m3u8
+ 
+
+
+#MOVIES
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies", MyTime Movie Network
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies", Action Hollywood Movies
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies", AMC East
+http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id=406 tvg-logo="" group-title="Movies", Crime + Investigation (United States)
+https://v2.thetvapp.to/hls/CrimePlusInvestigation/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-id=406 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/512px-FXM_Logo.svg.png" group-title="Movies", FX Movie Channel
+https://v12.thetvapp.to/hls/FXMovieChannel/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-id=406 tvg-logo="https://i.imgur.com/9XfhgbS.png" group-title="Movies", Okto
+https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/live/playlist.m3u8
+
+#NEWS
+#EXTINF:-1 tvg-id=406 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/06/14/DStvNowWeb_AlJazeera_new4-4logo_med.png" group-title="News",Al Jazeera
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1 tvg-id="BloombergTVEMEALiveEvent.uk" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="News",Bloomberg TV EMEA Live Event (720p)
+https://bloomberg.com/media-manifest/streams/eu-event.m3u8
+#EXTINF:-1 tvg-id="Canal2International.cm" tvg-logo="https://i.imgur.com/BzA2z7m.png" group-title="News",Canal 2 International
+https://tgn.bozztv.com/ssh101/ssh101/canal2live/playlist.m3u8
+
+#INTERNATIONAL
+#EXTINF:-1, AfroLandTV
+https://alt-al.otteravision.com/alt/al/al.m3u8
+#EXTINF:-1, ZeeOne (DE)
+https://ef56ef401101403a8b06f1dec29ef1eb.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_ZeeOne/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bLq9eFa.png" group-title="Special", Dodoma TV
+https://goliveafrica.media:9998/live/625965017ed69/index.m3u8
+#EXTINF:-1 tvg-id=166 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/11/07/DStv_ZeeWorld_4-3_med.png" group-title="Special",Zee World
+http://af.mtfxg.xyz:8081/canada1/zeeworld/chunks.m3u8?nimblesessionid=46264375&wmsAuthSign=c2VydmVyX3RpbWU9My8xNC8yMDI1IDk6NTA6NDEgQU0maGFzaF92YWx1ZT1MNkViZC9TZlpJMzV2MHV2UEFjT0hBPT0mdmFsaWRtaW51dGVzPTImaWQ9Nzc1Mg==
 #EXTINF:-1 tvg-id="3StonesTV.ke",3 Stones TV (240p) [Not 24/7]
 https://goliveafrica.media:9998/live/64d21e682fd26/index.m3u8
 #EXTINF:-1 tvg-id="AviationTV.ke",Aviation TV (480p)
