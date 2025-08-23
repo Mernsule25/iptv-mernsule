@@ -61,6 +61,8 @@ https://tv.kgtv.vn/live/kgtv/kgtv.m3u8
 https://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
 #EXTINF:-1 tvg-id="KonTumTV.vn",Kon Tum TV (720p)
 https://tv.kontumtv.vn/live/kontumtv/kontumtv.m3u8
+#EXTINF:-1 tvg-id="LA34LongAnTV.vn@HD",LA34 Long An TV (1080i) [Geo-blocked]
+https://live.la34.com.vn/la34/tv-transmux.m3u8
 #EXTINF:-1 tvg-id="LamDongTV.vn",Lam Dong TV (720p)
 http://118.107.85.5:1935/live/smil:LTV.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="LaoCaiTV.vn",Lao Cai TV (1080p) [Not 24/7]
@@ -139,3 +141,7 @@ http://125hvt.ddns.net:21585/vtv9/tracks-v1a1/mono.m3u8
 https://hls.mskycdn.online/tv/vtv9fhd/index.m3u8
 #EXTINF:-1 tvg-id="VTVCanTho.vn@HD",VTV Cần Thơ HD (1080p)
 https://hls.mskycdn.online/tv/vtvctfhd/index.m3u8
+#EXTINF:-1 tvg-id="SCTV1.vn",SCTV1 (720p)
+https://liveh12.seenow.vn/hls/SCTV1/03.m3u8
+#EXTINF:-1 tvg-id="SCTV7.vn@SD",SCTV7 (576i)
+https://liveh12.seenow.vn/hls/SCTV7/03.m3u8
